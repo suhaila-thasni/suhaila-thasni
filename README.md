@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MERN Stack Projects**
 
-- 🌱 I’m currently learning **MERN Fullstack, Next.js, and Cloud Deployment (AWS/Heroku)**
+- 🌱 I’m currently learning **MERN Fullstack and Next.js**
 
 - 👯 I’m looking to collaborate on **Open Source MERN Projects**
 
